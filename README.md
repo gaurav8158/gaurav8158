@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Frontend Developer At Software Giant <br>💬 Ask me about web devlopment<br>⚡ looking for a web developer <br>📋 I've previously worked as a SDE Intern at Global lancers<br>🧭 I love exploring and working both in frontend and backend.
+🌱 Full Stack Developer At Software Giant <br>💬 Ask me about web devlopment<br>⚡ looking for a web developer <br>📋 I've previously worked as a SDE Intern at Global lancers<br>🧭 I love exploring and working both in frontend and backend.
 
 
 ## 🌐 Socials:
